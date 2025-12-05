@@ -1,10 +1,21 @@
-# Hi there, I'm Mark Ezeonyeodi! 👋
+    
+<div align="center">
 
-### Aspiring Data Scientist based in Accra, Ghana 🇬🇭
+  # Hi there, I'm Mark Ezeonyeodi! 👋
+  ### Aspiring Data Scientist based in Accra, Ghana 🇬🇭
 
-I am a self-taught Data Scientist passionate about uncovering insights from data and building predictive models. I specialize in **Python** and **Machine Learning**, transforming raw datasets into actionable business solutions.
+  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:markezeonyeodi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+</div>
+I am a self-taught Data Scientist passionate about uncovering insights from data and building predictive models. I specialize in Python and Machine Learning, transforming raw datasets into actionable business solutions.
 
 ---
+
 
 ### 🛠️ Languages & Tools
 
@@ -45,6 +56,3 @@ I am a self-taught Data Scientist passionate about uncovering insights from data
 </p>
 
 ---
-
-### 📫 Connect with Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markezeonyeodi@gmail.com)
