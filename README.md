@@ -40,8 +40,8 @@ I am a self-taught Data Scientist passionate about uncovering insights from data
 
 ### 📊 My GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=marku3s&show_icons=true&theme=dark&hide_border=true" alt="Mark's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marku3s&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=mark3ze&show_icons=true&theme=dark&hide_border=true" alt="Mark's Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mark3ze&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
