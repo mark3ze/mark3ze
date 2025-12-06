@@ -1,4 +1,3 @@
-    
 <div align="center">
 
   # Hi there, I'm Mark Ezeonyeodi! 👋
@@ -42,10 +41,10 @@ I am a self-taught Data Scientist passionate about uncovering insights from data
 *   **Tech:** Logistic Regression vs. Random Forest, Data Imputation.
 *   **Result:** Achieved **81.6% Accuracy** using Random Forest with optimized feature selection.
 
-#### 🍽️ [Restaurant Tip Forecasting](https://github.com/marku3s/Tip-Prediction-Linear-Regression)
-*   **Goal:** Analyze tipping behavior to predict gratuity amounts.
-*   **Tech:** Linear Regression, Seaborn Visualization.
-*   **Result:** Identified total bill amount as the strongest correlation to tip size.
+#### 🐧 [Palmer Penguins Classification](https://github.com/mark3ze/penguins-classification)
+*   **Goal:** Classify penguin species based on physical characteristics.
+*   **Tech:** Logistic Regression, Scikit-Learn Pipelines, StandardScaler.
+*   **Result:** Achieved **100% Accuracy**, demonstrating the effectiveness of linear models on separable data clusters.
 
 ---
 
@@ -54,5 +53,3 @@ I am a self-taught Data Scientist passionate about uncovering insights from data
 <img src="https://github-readme-stats.vercel.app/api?username=mark3ze&show_icons=true&theme=dark&hide_border=true" alt="Mark's Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mark3ze&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
-
----
