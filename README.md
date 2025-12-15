@@ -1,11 +1,10 @@
 <div align="center">
-  <img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-  
+
   # 👋 Hi there, I'm Mark Ezeonyeodi!
   
   ### Aspiring Data Scientist | Based in Accra, Ghana 🇬🇭
   
-  [![GitHub followers](https://img.shields.io/github/followers/mark3ze?style=social)](https://github.com/mark3ze)
+ 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markezeonyeodi@gmail.com)
   
@@ -254,7 +253,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
   
   ### ⭐️ If you like my projects, don't forget to give them a star! ⭐️
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=mark3ze&color=58A6FF&style=flat-square)
+ 
   
   *Made with ❤️ by Mark Ezeonyeodi*
   
